@@ -16,4 +16,4 @@ We will score your submissions based on SMAPE score. The score on the leaderboar
 
 We participated in the competitive CN Challenge, which assessed predictive modeling capabilities across various teams. Below is a snapshot of the leaderboard where our team, **The Model Misfits**, showcased our analytical prowess.
 
-<img src="Leaderboard%20of%20CN%20Challenge.png" alt="Leaderboard Overview" width="600"/>
+<img src="Leaderboard%20of%20CN%20Challenge.png" alt="Leaderboard Overview" width="800"/>
